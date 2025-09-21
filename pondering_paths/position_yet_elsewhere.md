@@ -1,5 +1,5 @@
 # Challenge Name
-Traverse to yet another file to find the flag
+Position yet elsewhere
 
 ## My solve
 **Flag:** `pwn.college{cUjySaam8SJoEO-vkl9w6ndhsxK.QX4QTN0wCM2gjNzEzW}`
