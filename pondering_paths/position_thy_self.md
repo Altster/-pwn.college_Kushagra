@@ -1,5 +1,5 @@
 # Challenge Name
-It requires the use of cd to first find the path leading to the correct file, and then find the flag in that file
+position thy self
 
 ## My solve
 **Flag:** `pwn.college{0JdutnenHhEUjuCydfbJdAtRJmT.QX2QTN0wCM2gjNzEzW}`
