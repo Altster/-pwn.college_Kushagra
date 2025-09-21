@@ -1,0 +1,18 @@
+# Challenge Name
+Access a file within the challenge folder using its absolute path
+
+## My solve
+**Flag:** `pwn.college{UK9hcMHosXldB3wA2YpIUQFC_Hn.QX1QTN0wCM2gjNzEzW}`
+
+```bash
+hacker@paths~program-and-absolute-paths:~$ /challenge/run
+Correct!!!
+/challenge/run is an absolute path! Here is your flag:
+pwn.college{UK9hcMHosXldB3wA2YpIUQFC_Hn.QX1QTN0wCM2gjNzEzW}
+```
+
+## What I learned
+How to access a file within a file
+
+## References 
+None
