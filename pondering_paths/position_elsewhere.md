@@ -1,5 +1,5 @@
 # Challenge Name
-traverse paths to find the right one to the flag
+position elsewhere
 
 ## My solve
 **Flag:** `pwn.college{0AXGO_PYO2-6O0gmmZCBVYysQXx.QX3QTN0wCM2gjNzEzW}`
