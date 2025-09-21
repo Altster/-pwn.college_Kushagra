@@ -1,5 +1,5 @@
 # Challenge Name
-Accessing command history
+Command history
 
 ## My solve
 **Flag:** `pwn.college{0O1xCQytQ32Vu0pP7LJvPCTXDS8.0lNzEzNxwCM2gjNzEzW}`
