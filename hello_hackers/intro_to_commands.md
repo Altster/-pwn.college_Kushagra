@@ -1,5 +1,5 @@
 # Challenge Name
-Type hello into the CLI
+Intro to commands
 
 ## My solve
 **Flag:** `pwn.college{414YXLo_6An6opLZfEt9Qf7p4oi.QX3YjM1wCM2gjNzEzW}`
