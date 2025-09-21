@@ -1,5 +1,5 @@
 # Challenge Name
-Run 'hello hacker' in the CLI
+Intro to arguments
 
 ## My solve
 **Flag:** `pwn.college{UXD8KhTnY_bwVUJra6HxwcNFvcP.QX4YjM1wCM2gjNzEzW}`
