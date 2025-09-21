@@ -1,5 +1,5 @@
 # Challenge Name
-Access a file within the challenge folder using its absolute path
+Program and absolute paths
 
 ## My solve
 **Flag:** `pwn.college{UK9hcMHosXldB3wA2YpIUQFC_Hn.QX1QTN0wCM2gjNzEzW}`
