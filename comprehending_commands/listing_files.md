@@ -2,7 +2,7 @@
 Listing files
 
 ## My solve
-**Flag:** `pwn.college{helloworld}`
+**Flag:** `pwn.college{gnk10fSn1TB0efDY7vkmgS7tHIu.QX4IDO0wCM2gjNzEzW}`
 
 ```bash
 hacker@commands~listing-files:~$ ls /challenge
