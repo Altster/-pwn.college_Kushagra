@@ -19,6 +19,9 @@ Here is your flag:
 pwn.college{0JdutnenHhEUjuCydfbJdAtRJmT.QX2QTN0wCM2gjNzEzW}
 ```
 
+## Incorrect tangents I went on
+None
+
 ## What I learned
 The function of 'cd', and that it takes only 1 argument
 
