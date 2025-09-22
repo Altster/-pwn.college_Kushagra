@@ -18,6 +18,9 @@ Here is your flag:
 pwn.college{0AXGO_PYO2-6O0gmmZCBVYysQXx.QX3QTN0wCM2gjNzEzW}
 ```
 
+## Incorrect tangents I went on
+None
+
 ## What I learned
 Nothing new
 
