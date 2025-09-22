@@ -13,6 +13,8 @@ hacker@hello~intro-to-commands:~$ hello
 Success! Here is your flag:
 pwn.college{414YXLo_6An6opLZfEt9Qf7p4oi.QX3YjM1wCM2gjNzEzW}
 ```
+#Incorrect tangents I went on
+None
 
 ## What I learned
 Connecting SSH and working from Ubuntu
