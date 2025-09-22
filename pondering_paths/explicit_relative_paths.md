@@ -16,7 +16,7 @@ Here is your flag:
 pwn.college{omiswH0qo2YBkRcX71pEE3z-t8o.QXwUTN0wCM2gjNzEzW}
 ```
 
-#Incorrect tangents I went on
+## Incorrect tangents I went on
 I tried the `cd ./challenge/run`, but it didnt work. I believed cd was a must in this challenge, so I tried a lot of variations like `cd /challenge/run` and more. I finally asked my mentor about this and he helped me out
 
 ## What I learned
