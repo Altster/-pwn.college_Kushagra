@@ -18,6 +18,9 @@ hacker@paths~the-root:~$ cat /pwn
 /challenge/.pwn
 ```
 
+## Incorrect tangents I went on
+None
+
 ## What I learned
 accessing files and the meaning of absolute path
 
